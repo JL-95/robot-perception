@@ -1,0 +1,15 @@
+build\
+out\
+.vs\
+.vscode\
+*.user
+*.obj
+*.pdb
+*.ilk
+*.dll
+*.lib
+*.exe
+*.so
+*.dylib
+__pycache__\
+*.pyc
